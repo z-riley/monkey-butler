@@ -1,2 +1,3 @@
-# monkey-butler
+# monkeybutler
+
 Personal helper TUI application
